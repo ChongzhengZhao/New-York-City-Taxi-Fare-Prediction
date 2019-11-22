@@ -1,16 +1,15 @@
 # **New York City Taxi Fare Prediction**
-**整理：赵崇正 2018年9月6日/n**
-***Author: Chongzheng Zhao***\n
-***Kaggle Competition - New York City Taxi Fare Prediction***
-***FINAL BEAT 1454 TEAMS!***
-***We team NYCTAXI located at 30 out of 1484 teams, Top 2%!***
-***Final Score 2.86770***
-***Competition Official Website: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction***
-***To see the leaderboard(competition result): https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/leaderboard***
-***Welcome to my Github profile: https://github.com/ChongzhengZhao/***
-***Welcome to my Kaggle Profile: https://www.kaggle.com/chongzhengzhao***
-***Welcome to my Linkedin Profile: https://www.linkedin.com/in/chongzhengzhao/***
-***Last updated: 30/11/2018***
+- **Author: Chongzheng Zhao**
+- **Kaggle Competition - New York City Taxi Fare Prediction**
+**FINAL BEAT 1454 TEAMS!**
+**We team NYCTAXI located at 30 out of 1484 teams, Top 2%!**
+**Final Score 2.86770**
+**Competition Official Website: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction**
+**To see the leaderboard(competition result): https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/leaderboard**
+**Welcome to my Github profile: https://github.com/ChongzhengZhao/**
+**Welcome to my Kaggle Profile: https://www.kaggle.com/chongzhengzhao**
+**Welcome to my Linkedin Profile: https://www.linkedin.com/in/chongzhengzhao/**
+**Last updated: 30/11/2018**
 
 
 # ***·项目概要***
@@ -53,4 +52,3 @@
 2. 这部分原理见Document。
 # ***NOTE***
 本地查看到的rmse并不是上传到kaggle竞赛平台的最后rmse分数。用于预测的test集中并不包含fare amount，我们的model就是基于各种feature去预测打车的费用，所以我们上传到平台的是打车费用，他们后台会匹配我们预测的结果和后台真实值的匹配度，以计算排名和分数。
-***整理：赵崇正 2018年9月6日***
