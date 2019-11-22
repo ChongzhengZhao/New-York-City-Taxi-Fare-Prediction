@@ -6,7 +6,7 @@
 - **Final Score 2.86770**
 - **Competition Official Website: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction**
 - **To see the leaderboard(competition result): https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/leaderboard**
-- **Welcome to my Github profile: https://github.com/ChongzhengZhao/**
+- **Welcome to my Github Profile: https://github.com/ChongzhengZhao/**
 - **Welcome to my Kaggle Profile: https://www.kaggle.com/chongzhengzhao**
 - **Welcome to my Linkedin Profile: https://www.linkedin.com/in/chongzhengzhao/**
 - **Last updated: 30/11/2018**
