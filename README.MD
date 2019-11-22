@@ -1,6 +1,6 @@
-# **New York City Taxi Fare Prediction项目**
-***整理：赵崇正 2018年9月6日***
-***Author: Chongzheng Zhao***
+# **New York City Taxi Fare Prediction**
+***整理：赵崇正 2018年9月6日***\n
+***Author: Chongzheng Zhao***\n
 ***Kaggle Competition - New York City Taxi Fare Prediction***
 ***FINAL BEAT 1454 TEAMS!***
 ***We team NYCTAXI located at 30 out of 1484 teams, Top 2%!***
