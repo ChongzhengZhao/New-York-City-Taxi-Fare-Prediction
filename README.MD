@@ -1,4 +1,4 @@
-# **New York City Taxi Fare Prediction**
+# **New York City Taxi Fare Prediction - TOP 2% TEAM!**
 - **Author: Chongzheng Zhao**
 - **Kaggle Competition - New York City Taxi Fare Prediction**
 - **FINAL BEAT 1454 TEAMS!**
